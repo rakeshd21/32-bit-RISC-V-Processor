@@ -37,7 +37,7 @@ Insert the processor architecture diagram below.
 
 RTL schematic generated from Vivado.
 
-![RTL Diagram](images/rtl.png)
+![RTL Diagram](images/rtl.png.jpeg)
 
 ---
 
