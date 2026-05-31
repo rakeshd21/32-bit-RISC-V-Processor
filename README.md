@@ -125,5 +125,5 @@ GitHub: https://github.com/rakeshd21
 ---
 ## Contributors
 
-- Kiran Achari
+- [Kiran Achari](https://github.com/kiran-achari)
 - Kirankumar Patil
