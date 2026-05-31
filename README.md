@@ -29,7 +29,7 @@ The design was developed and verified using Verilog HDL and simulated in Xilinx 
 
 Insert the processor architecture diagram below.
 
-![Architecture](images/architecture.png)
+![Architecture](images/architecture.png.jpeg)
 
 ---
 
