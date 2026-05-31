@@ -45,15 +45,9 @@ RTL schematic generated from Vivado.
 
 Functional verification waveform captured from Vivado simulation.
 
-![Waveform](images/waveform.png)
+![Waveform](images/waveform.png.jpeg)
 
 ---
-
-## Vivado Simulation
-
-Processor successfully simulated in Xilinx Vivado.
-
-![Vivado Simulation](images/vivado_simulation.png)
 
 ---
 
